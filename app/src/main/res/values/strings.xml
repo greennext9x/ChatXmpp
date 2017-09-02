@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Xmpp</string>
+    <string name="hint_login_username">Nhập tài khoản</string>
+    <string name="fail_login_username">Tài khoản không được để trống</string>
+    <string name="hint_login_password">Nhập mật khẩu</string>
+    <string name="fail_login_password">Mật khẩu không được để trống</string>
+    <string name="login">Đăng nhập</string>
+    <string name="login_forget_pwd">Quên mật khẩu</string>
+    <string name="please_input_limit_pwd">Vui lòng nhập số hoặc ký tự</string>
+    <string name="fail_login">Đăng nhập thất bại</string>
+    <string name="success_login">Đăng nhập thành công</string>
+    <string name="loading">Đang tải...</string>
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_more">Mở rộng</string>
+    <string name="please_to_talk">Giữ để nói</string>
+    <string name="send">Gửi</string>
+    <string name="album">Bộ sưu tập</string>
+    <string name="shot">Shot</string>
+    <string name="location">Vị trí</string>
+    <string name="voice_rec">Giữ tay để ghi âm</string>
+    <string name="voice_short">Thời gian ghi quá ngắn</string>
+    <string name="voice_cancel">Thôi giữ tay để hủy</string>
+    <string name="change_my_name_tip">Tên hay sẽ giúp bạn bè bạn dễ nhớ hơn.</string>
+</resources>
